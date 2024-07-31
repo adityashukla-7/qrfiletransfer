@@ -13,7 +13,7 @@
 
 ```bash
 # clone the repo
-$ git clone https://github.com/ayushsaini12/qrFileTransfer.git
+$ git clone https://github.com/adityashukla-7/qrfiletransfer.git
 
 # change the working directory to qr-filetransfer
 $ cd qr-filetransfer
